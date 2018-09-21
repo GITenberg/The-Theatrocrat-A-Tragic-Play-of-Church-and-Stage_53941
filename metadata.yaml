@@ -1,5 +1,8 @@
 _repo: The-Theatrocrat-A-Tragic-Play-of-Church-and-Stage_53941
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Davidson, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '37638'
     url: http://www.gutenberg.org/2009/agents/37638
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53941#The-Theatrocrat-A-Tragic-Play-of-Church-and-Stage
 gutenberg_issued: '2017-01-11'
 gutenberg_type: Text
 identifiers:
