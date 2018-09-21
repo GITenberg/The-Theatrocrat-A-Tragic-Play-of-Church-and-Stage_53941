@@ -1,0 +1,27 @@
+_repo: The-Theatrocrat-A-Tragic-Play-of-Church-and-Stage_53941
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davidson, John
+    birthdate: 1857
+    deathdate: 1909
+    gutenberg_agent_id: '37638'
+    url: http://www.gutenberg.org/2009/agents/37638
+description: ''
+gutenberg_issued: '2017-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'To the generation knocking at the door -- Introduction: Wordsworth''s
+  immorality and mine. Heaven and hell. Interlude. God and sin -- The theatrocrat:
+  a tragic play of church and stage.'
+title: 'The Theatrocrat: A Tragic Play of Church and Stage'
+url: http://www.gutenberg.org/ebooks/53941
